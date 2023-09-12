@@ -1,10 +1,3 @@
-/*
-Author: Mradul Lakhotiya
-SAP ID: 500125405
-Email:  Mradul.125405@stu.upes.ac.in
-Batch:  Batch-50
-Aim:    Swap values without using a third variable
-*/
 #include <stdio.h>
 
 int main () {
