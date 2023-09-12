@@ -22,10 +22,3 @@ To get started with the C code in this repository, follow these steps:
 
 ```bash
 git clone https://github.com/yourusername/c-code-repo.git
---
-
-## About This Repository
-
-This is my personal repository for C code projects and exercises. Here, I'll be sharing my learning journey in the world of C programming. You'll find various projects, exercises, and experiments related to C programming as I continue to explore and learn.
-
-Please feel free to explore the code, provide feedback, or even collaborate on projects if you're interested. Let's continue to learn and code together!
