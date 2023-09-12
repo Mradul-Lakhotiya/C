@@ -21,4 +21,4 @@ To get started with the C code in this repository, follow these steps:
 3. Use the following command to clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/c-code-repo.git
+git clone https://github.com/Mradul-Lakhotiya/C_code.git
