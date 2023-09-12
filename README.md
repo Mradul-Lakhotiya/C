@@ -8,17 +8,15 @@ This repository contains my collection of C programming code, projects, and exer
 - **[Good](Good/):** This folder is named "Good," signifying that it contains code that I'm particularly proud of. It showcases my personal projects as well as instances where I received valuable assistance and collaboration from others.
 - **[Very Good](Very%20Good/):** This folder, named "Very Good," houses code with ideas I'm extremely proud of. These projects represent a significant breakthrough in my coding journey, and I created them independently without needing assistance from others.
 
-## How to Use
+## Code Quality and Improvements
 
-To get started with the C code in this repository, follow these steps:
+I'm relatively new to C programming and have been learning for about 5-6 weeks. As a result, some of the code in this repository may not be perfect, and there might be better ways to achieve the same results. I'm open to constructive feedback and suggestions for code improvements.
 
-### Clone the Repository
+If you come across any code that could be optimized, enhanced, or if you have alternative solutions, please feel free to share your insights. Your expertise will help me learn and grow as a programmer.
 
-1. Open your terminal or command prompt.
+Let's collaborate to make the code in this repository the best it can be!
 
-2. Navigate to the directory where you want to store the repository on your local machine.
-
-3. Use the following command to clone the repository:
+#### Use the following command to clone the repository:
 
 ```bash
 git clone https://github.com/Mradul-Lakhotiya/C_code.git
