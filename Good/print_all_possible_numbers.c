@@ -12,13 +12,13 @@ int main () {
     num[0]=num[0]/10;
     num[3]=num[0];
 
-    printf ("%d,%d,%d",num[3],num[2],num[1]);
+    printf ("%d,%d,%d\n",num[3],num[2],num[1]);
 
     for (i=0;i!=3;i++) {
         for (j=0;j!=3;j++) {
             for (k=0;k!=3;k++) {
                 if (i!=k && i!=j && j!=k) {
-                    printf ("%d%d%d",num[i],num[j],num[k]);
+                    printf ("%d%d%d\n",num[i],num[j],num[k]);
                 }
             }
         }
