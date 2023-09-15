@@ -7,7 +7,7 @@ int main () {
     scanf ("%d",&x);
 
     for (dx=x;dx!=0;n++) {
-        dx = (int)dx/10;
+        dx = dx/10;
     }
     dx = x;
     while (n!=0) {
