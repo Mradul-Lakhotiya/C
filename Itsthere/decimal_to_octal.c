@@ -20,6 +20,4 @@ int main() {
     }
 
     printf("Octal representation: %d\n", onum);
-
-    return 0;
 }
