@@ -1,29 +1,33 @@
 #include <stdio.h>
 
 int main () {
-    int to=0, from, key, n;
+    int end_range = 0, from, key, n, count = 0;
 
     printf ("Enter the from : ");
-    scanf ("%d",&from);
+    scanf ("%d", &from);
     printf ("Enter the to : ");
-    scanf ("%d",&to);
+    scanf ("%d", &end_range);
     printf ("Enter the key : ");
-    scanf ("%d",&key);
+    scanf ("%d", &key);
 
-    for (int i=from ; i<=to ; i++) {
+    for (int i = from; i <= end_range; i++) {
         int temp = i;
-        n=0;
-        while (temp!=0) {
+        n = 0;
+        while (temp != 0) {
             temp /= 10;
             n++;
         }
-        for (n ; n!=0 ; n++) {
-            int digit = temp%10;
-            if (digit=key) {
-                printf ("%d ",i);
+        temp = i;
+        for (int tn = n; tn >= 1; tn--) {
+            int digit = temp % 10;
+            if (digit == key) {
+                printf ("%d ", i);
+                count++;
+                temp /= 10;
                 break;
             }
             temp /= 10;
         }
     }
+    printf ("\nThe numbers containing %d are %d", key, count);
 }
