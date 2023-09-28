@@ -21,4 +21,3 @@ Let's collaborate to make the code in this repository the best it can be!
 
 ```bash
 git clone https://github.com/Mradul-Lakhotiya/C_code.git
-add a folder named Patten_code which contains all the pattern code
