@@ -7,6 +7,7 @@ This repository contains my collection of C programming code, projects, and exer
 - **[itsthere](itsthere/):** This folder is named "itsthere" and its name is self-explanatory. It contains various C code files, and it was created either out of boredom or as a personal exploration to reinforce programming concepts.
 - **[Good](Good/):** This folder is named "Good," signifying that it contains code that I'm particularly proud of. It showcases my personal projects as well as instances where I received valuable assistance and collaboration from others.
 - **[Very Good](Very%20Good/):** This folder, named "Very Good," houses code with ideas I'm extremely proud of. These projects represent a significant breakthrough in my coding journey, and I created them independently without needing assistance from others.
+- **[Patten_code](Patten_code/):** This folder contains C code related to various patterns.
 
 ## Code Quality and Improvements
 
@@ -20,3 +21,4 @@ Let's collaborate to make the code in this repository the best it can be!
 
 ```bash
 git clone https://github.com/Mradul-Lakhotiya/C_code.git
+add a folder named Patten_code which contains all the pattern code
