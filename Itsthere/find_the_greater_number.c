@@ -13,17 +13,14 @@ int main () {
     scanf("%d", &num3);
 
     if (num1 > num2) {
-
         if (num1 > num3) {
             max = num1;
         }
         else {
             max = num3;
         }
-
     }
     else {
-
         if (num2 > num3) {
             max = num2;
         }
@@ -31,8 +28,6 @@ int main () {
             max = num3;
         }
     }
-
     printf("The maximum number is: %d", max);
-
     return 0;
 }
