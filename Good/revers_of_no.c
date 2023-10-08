@@ -1,13 +1,8 @@
 #include <stdio.h>
 
 void revers_finder (int on, int temp) {
-    if (temp==0) {
-        printf ("%d\n",on);
-        return;
-    }
-    revers_finder(10*on + temp%10, temp/10);
+    temp==0 ? printf ("%d\n",on) : revers_finder(10*on + temp%10, temp/10);
 }
-
 int main () {
     int n;
 
