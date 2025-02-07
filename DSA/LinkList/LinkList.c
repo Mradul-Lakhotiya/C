@@ -17,7 +17,7 @@ void deleteNodeAtBeginning (struct Node **Head);
 void deleteNodeAtTheEnd (struct Node **Head);
 void deleteGiveNode (struct Node **Head, int position);
 void deleteNodeAfterGivenNode (struct Node **Head, int position); 
-// void frequencyInList(struct Node *Head); //! working Sorting will make it work
+// void frequencyInList(struct Node *Head); //TODO working Sorting will make it work
 void deleteLinkedList (struct Node *Head);
 void deleteByValue (struct Node *Head, int value);
 void reverseList (struct Node **Head);

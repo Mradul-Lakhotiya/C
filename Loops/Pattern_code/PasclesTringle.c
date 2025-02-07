@@ -23,7 +23,7 @@ void printPascalTriangle(int n) {
 }
 
 int main() {
-    printPascalTriangle(5);
+    printPascalTriangle(10);
 
     return 0;
 }
