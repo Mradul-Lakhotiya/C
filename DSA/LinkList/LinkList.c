@@ -458,7 +458,7 @@ bool containDuplicates (struct Node **Head_ptr) {
     struct Node *current = *Head_ptr;
     struct Node *helper = NULL;
 
-    while (current != NULL) {
+    while (current != NULL) {+  
         helper = current->next;
         
         while (helper != NULL) {
